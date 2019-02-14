@@ -23,7 +23,7 @@
         },
         "repoURL": {
             "type": "string",
-            "defaultValue": "https://github.com/Azure-Samples/consumption-cost-node.git",
+            "defaultValue": "https://github.com/RobinGhosh64/azure-billing-api.git",
             "metadata": {
                 "description": "Repo URL"
             }
